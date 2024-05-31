@@ -1,2 +1,2 @@
-# CSGo2AimBot
-Skill issue LOL
+# Skill issue LOL
+
